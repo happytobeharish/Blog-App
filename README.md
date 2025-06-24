@@ -25,5 +25,31 @@ A modern full-stack blogging application with user authentication, CRUD operatio
 
 ---
 
-## 📁 Directory Overview
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/blog-app.git
+cd blog-app
+
+Backend Setup
+cd backend
+npm install
+
+Create a .env file in backend/:
+
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/blogapp
+JWT_SECRET=your_jwt_secret
+
+Frontend Setup
+
+npm install
+npm run dev
+
+
 
