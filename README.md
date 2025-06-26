@@ -14,7 +14,7 @@ A modern full-stack blogging application with user authentication, CRUD operatio
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🔐 User registration and login
 - 🔒 Secure authentication using JWT
