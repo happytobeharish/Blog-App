@@ -11,7 +11,7 @@ A modern full-stack blogging application with user authentication, CRUD operatio
 - **Database:** MongoDB (Mongoose)  
 - **Authentication:** JWT (JSON Web Tokens)  
 - **File Upload:** Multer
-
+ 
 ---
 
 ## ✨ Features 
