@@ -1,6 +1,6 @@
 # 📝 Full Stack Blog App
 
-A modern full-stack blogging application with user authentication, CRUD operations for posts, and profile picture upload functionality.
+A modern full-stack blogging application with user authentication, CRUD operations for posts, and profile picture upload functionality. 
 
 ---
 
